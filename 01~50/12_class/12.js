@@ -1,4 +1,4 @@
-const Wizard = class Wiard {
+const Wizard = class Wizard {
     constructor(health, mana, armor) {
         this.health = health;
         this.mana = mana;
